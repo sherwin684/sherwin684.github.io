@@ -78,4 +78,3 @@ Experienced Machine Learning Engineer and Data Analyst with a strong background 
 
 ---
 
-**Note:** Replace the placeholders in the template with your own information, including your name, contact details, education, work experience, skills, certifications, projects, languages, and interests. Customize the resume to match your specific experiences and achievements.
