@@ -58,13 +58,20 @@ Machine Learning Engineer and Data Analyst with a good background in developing 
 
 
 ## Projects
-- **Image Classification with Convolutional Neural Networks**
-  - Implemented a deep learning model using CNNs to classify images in a dataset with 95% accuracy.
-  - Fine-tuned the model with data augmentation and transfer learning techniques.
-  - Deployed the model as a RESTful API using Flask and Docker.
+- **Kinematic evaluation and Injury prediction for 50th percentile Female CHBM | University of Stuttgart | Jul 2022**
+   - Repositioning of Viva Open HBM and simulation of the model with a Frontal Impact Load case.
+   - Injury assessment of the HBM.
+ 
+ - **Audio based Predctive maintenace using Machine Learning | University of Stuttgart | Sep 2021**
+   - Developed a classifier using ANNs and CNNs to classify defective and good components of a machinery when audio recodings of the components under operation are provided.
+   - Applied the model to perform predictive maintenance.
+  
+ - **Audio based Predctive maintenace using Machine Learning | University of Stuttgart | Jul 2021**
+   - Numerial formulation of non-linear hyperleastic materials considering large deformations.
+   - Object oriented implementation of the model in an in-house python FE-code called ez-FEM (Newton-Raphson solver)
+  
 
-
-## Languages#
+## Languages
 - German (Very good - B2)
 - English (Fluent - C1)
 
