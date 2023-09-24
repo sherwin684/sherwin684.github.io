@@ -29,7 +29,22 @@ Machine Learning Engineer and Data Analyst with a good background in developing 
  - Performed EDA and feature selection on the gathered data using Python Matplotlib, Pandas and Seaborn.
  - Developed a collection of supervised learning models using scikit-learn and tensorflow.
  - Implemented the models as a python based GUI - Tkinter.
-   
+
+### Working Student - CAE and Vehicle Safety - Head Impact/Pedestrian protection | EDAG Engineering GmbH | München, DE | May 2022 - Oct 2022
+ - Developed a complete Finite Element (Explicit dynamics) Head impact scenario with ATD dummies for bicycle helmets according to norms EN 1078 and EN 960.
+ - Benchamrking of various bicycle helmets based on materials and Head Injury Criterion (HIC).
+
+### Internship - CAE and Vehicle Safety - Crash/Body in White (BiW)/Python programming | EDAG Engineering GmbH | München, DE | Nov 2021 - Apr 2022
+ - Supported the BiW team in builing up of FE (Explicit Dynamics) crash models using ANSA, LS-DYNA and Animator4.
+ - Developed python scripts to automate repetitive routines in ANSA and Animator while pre and post processing FE models.
+ - End-to-End developement of a python script to automate ticket creation of issues in JIRA with data from customer.
+ - Worked with RESTful services of JIRA and Sharepoint.
+
+### Scientific assistant - Reinforcement Learning | Institute für Konstruktionstechnik und Techniches Design | München, DE | Oct 2021 - Apr 2022
+  - Complete developemt of a Deep-Q learning model to optimize the contour of a press-fitted Shaft-hub joint, to homogenize joint pressure distribution according to norm DIN 7190.
+  - Material based iterative optimization to achieve the same.
+  - Created a data-set with optimal contours and trained a supervised-learning DNN model to make predictions of the optimal contour for given design constraints.
+
 ## Techanical Skills
 - Programming Languages: Python, MATLAB, SQL
 - Machine Learning Libraries: scikit-learn, TensorFlow, Keras, PyTorch, Langchain
