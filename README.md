@@ -8,24 +8,20 @@
 Experienced Machine Learning Engineer and Data Analyst with a strong background in developing and deploying machine learning models to solve real-world problems. Proficient in data preprocessing, feature engineering, model selection, and performance evaluation. Adept at leveraging data-driven insights to drive business decisions and enhance processes.
 
 ## Education
-- **Master of Science in Computer Science**
-  - University Name, City, State
-  - Graduation Date: Month Year
+- **Master of Science - Computational Mechanics of Materials and Structures (COMMAS)**
+  - University of Stuttgart, München - Deutschland
+  - Graduation Date: May 2023
 
-- **Bachelor of Science in Data Science**
-  - University Name, City, State
-  - Graduation Date: Month Year
+- **Bachelor of Engineering - Mehcanical Engineering**
+  - Anna University, Chennai - India
+  - Graduation Date: Apr 2023
 
 ## Work Experience
-### Machine Learning Engineer | Company Name | City, State | Month Year - Present
-- Developed and implemented machine learning algorithms for various applications, including natural language processing, computer vision, and predictive analytics.
-- Collaborated with cross-functional teams to define project objectives, gather requirements, and deliver data-driven solutions on time and within budget.
-- Conducted data preprocessing, feature selection, and feature engineering to improve model performance.
-- Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
-- Deployed machine learning models into production environments using containerization and cloud services.
-- Continuously monitored and fine-tuned models to ensure optimal performance and scalability.
-- Created and maintained documentation for machine learning pipelines and models.
-- Mentored junior data scientists and engineers, fostering a culture of knowledge sharing and skill development.
+### IT Consultant - AI and Cloud computing | EVIDEN - An Atos buisness | München, State | Jun 2023 - Present
+- Data and log analytics with Apache Spark, Splunk, ELK and Opensearch.
+- MLOps and DevOps
+- Optimization of CAE workflows using AI.
+- Investigation of cloud and on-prem LLMs - LoRA, Quantization, LLM Fine-tuning
 
 ### Data Analyst | Company Name | City, State | Month Year - Month Year
 - Analyzed large datasets to extract meaningful insights and trends, helping stakeholders make informed decisions.
