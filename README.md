@@ -1,87 +1,69 @@
-# Sherwin Rajkumar
+# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
-## Contact Information
-- **Email:** sherwin684@gmail.com
-- **Location:** München, Bayern, Deutschland
+[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
-## Summary
-Machine Learning Engineer and Data Analyst with a good background in developing and deploying machine learning models to solve real-world and Engineering problems. Proficient in data preprocessing, feature engineering, model selection, and performance evaluation. Adept at leveraging data-driven insights to drive business decisions and enhance processes.
+## Preview
 
-## Education
-- **Master of Science - Computational Mechanics of Materials and Structures (COMMAS)**
-  - University of Stuttgart, München - Deutschland
-  - Graduation Date: May 2023
+[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
 
-- **Bachelor of Engineering - Mechanical Engineering**
-  - Anna University, Chennai - India
-  - Graduation Date: Apr 2023
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
-## Work Experience
-### IT Consultant - AI and Cloud computing | EVIDEN - An Atos buisness | München, DE | Jun 2023 - Present
-- Data and log analytics with Apache Spark, Splunk, ELK and Opensearch.
-- MLOps and DevOps.
-- Optimization of CAE workflows using AI.
-- Investigation of cloud and on-prem LLMs - LoRA, Quantization, LLM Fine-tuning.
+## Status
 
-### Master thesis - Data Analytics and Machine Learning | EDAG Engineering GmbH | München, DE | Nov 2022 - May 2023
- - Created a data-driven model to augment dimensioning of brake disks in the early design phase.
- - Built a corresponding data-set using vehicle benchmarking platforms such as A2MAC1 and Iceberg.
- - Performed EDA and feature selection on the gathered data using Python Matplotlib, Pandas and Seaborn.
- - Developed a collection of supervised learning models using scikit-learn and tensorflow.
- - Implemented the models as a python based GUI - Tkinter.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 
-### Working Student - CAE and Vehicle Safety - Head Impact/Pedestrian protection | EDAG Engineering GmbH | München, DE | May 2022 - Oct 2022
- - Developed a complete Finite Element (Explicit dynamics) Head impact scenario with ATD dummies for bicycle helmets according to norms EN 1078 and EN 960.
- - Benchmarking of various bicycle helmets based on materials and Head Injury Criterion (HIC).
+## Download and Installation
 
-### Internship - CAE and Vehicle Safety - Crash/Body in White (BiW)/Python programming | EDAG Engineering GmbH | München, DE | Nov 2021 - Apr 2022
- - Supported the BiW team in building up of FE (Explicit Dynamics) crash models using ANSA, LS-DYNA and Animator4.
- - Developed python scripts to automate repetitive routines in ANSA and Animator while pre and post processing FE models.
- - End-to-End development of a python script to automate ticket creation of issues in JIRA with data from customer.
- - Worked with RESTful services of JIRA and Sharepoint.
+To begin using this template, choose one of the following options to get started:
 
-### Scientific assistant - Reinforcement Learning | Institute für Konstruktionstechnik und Techniches Design | München, DE | Oct 2021 - Apr 2022
-  - Complete developemt of a Deep-Q learning model to optimize the contour of a press-fitted Shaft-hub joint, to homogenize joint pressure distribution according to norm DIN 7190.
-  - Material based iterative optimization to achieve the same.
-  - Created a data-set with optimal contours and trained a supervised-learning DNN model to make predictions of the optimal contour for given design constraints.
+- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
+- Install using npm: `npm i startbootstrap-resume`
+- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
 
-## Techanical Skills
-- Programming Languages: Python, MATLAB, SQL
-- Machine Learning Libraries: scikit-learn, TensorFlow, Keras, PyTorch, Langchain
-- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn, Apache Spark, Opensearch, Elasticsearch (ELK), Splunk
-- CAE Pre and Post processing : ANSA, Animator4
-- CAE Solvers - LS-DYNA, Abaqus
-- Cloud Platforms: AWS
-- Version Control: Git, GitHub
-- Containerization: Docker, Kubernetes
-- Agile Development: Scrum, Kanban
+## Usage
 
+### Basic Usage
 
-## Projects
-- **Kinematic evaluation and Injury prediction for 50th percentile Female CHBM | University of Stuttgart | Jul 2022**
-   - Repositioning of Viva Open HBM and simulation of the model with a Frontal Impact Load case.
-   - Injury assessment of the HBM.
- 
- - **Audio based predictive maintenace using Machine Learning | University of Stuttgart | Sep 2021**
-   - Developed a classifier using ANNs and CNNs to classify defective and good components of a machinery when audio recordings of the components under operation are provided.
-   - Applied the model to perform predictive maintenance.
-  
- - **Thermo-hyperelastic coupled problem for Large deformations | University of Stuttgart | Jul 2021**
-   - Numerical formulation of non-linear hyperelastic materials considering large deformations.
-   - Object oriented implementation of the model in an in-house python FE-code called ez-FEM (Newton-Raphson solver)
-  
+After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-## Languages
-- German (Very good - B2)
-- English (Fluent - C1)
+### Advanced Usage
 
+Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-## Interests
-- Generative AI
-- Integration of AI with CAE
-- Finite Element Analysis - Automobile Crash, Pedestrian protection and Occupant Safety
-- Computational Human Body Modeling
+#### npm Scripts
 
+- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+- `npm run start:debug` runs the project in debug mode
+- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
----
+You must have npm installed in order to use this build environment.
 
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+- <https://startbootstrap.com>
+- <https://twitter.com/SBootstrap>
+
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+
+- <https://davidmiller.io>
+- <https://twitter.com/davidmillerhere>
+- <https://github.com/davidtmiller>
+
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
